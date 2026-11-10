@@ -1,0 +1,17 @@
+Stem file,Original track,Playing in window,Role,Impacted,Mic channel,Relative mic gain dB,MSG frequency,Instability onset,Scenario,Overshoot dB,Start gain,End gain,Mixer latency ms,Room dims,RT60,Speaker band Hz,Speakers,Mic start,Mic end,Sampling frequency,Audio length,Notes
+01.wav,beat8/01.wav,yes,line,no,,,,,fader,0.66,-7.75,-1.09,4.19,14.38;11.33;3.85,0.77,98-6820,main@3.32;1.70;2.28|main@3.32;9.63;2.31,,,16000,20,overshoot 0.66 dB
+02.wav,beat8/02.wav,yes,mic,yes,1,0.00,3.576359e+02,8.90,fader,0.66,-7.75,-1.09,4.19,14.38;11.33;3.85,0.77,98-6820,main@3.32;1.70;2.28|main@3.32;9.63;2.31,1.76;5.66;1.52,1.76;5.66;1.52,16000,20,overshoot 0.66 dB
+03.wav,beat8/03.wav,yes,line,no,,,,,fader,0.66,-7.75,-1.09,4.19,14.38;11.33;3.85,0.77,98-6820,main@3.32;1.70;2.28|main@3.32;9.63;2.31,,,16000,20,overshoot 0.66 dB
+04.wav,beat8/04.wav,yes,line,no,,,,,fader,0.66,-7.75,-1.09,4.19,14.38;11.33;3.85,0.77,98-6820,main@3.32;1.70;2.28|main@3.32;9.63;2.31,,,16000,20,overshoot 0.66 dB
+05.wav,beat8/05.wav,yes,line,no,,,,,fader,0.66,-7.75,-1.09,4.19,14.38;11.33;3.85,0.77,98-6820,main@3.32;1.70;2.28|main@3.32;9.63;2.31,,,16000,20,overshoot 0.66 dB
+06.wav,beat8/06.wav,yes,line,no,,,,,fader,0.66,-7.75,-1.09,4.19,14.38;11.33;3.85,0.77,98-6820,main@3.32;1.70;2.28|main@3.32;9.63;2.31,,,16000,20,overshoot 0.66 dB
+07.wav,beat8/07.wav,yes,line,no,,,,,fader,0.66,-7.75,-1.09,4.19,14.38;11.33;3.85,0.77,98-6820,main@3.32;1.70;2.28|main@3.32;9.63;2.31,,,16000,20,overshoot 0.66 dB
+08.wav,beat8/08.wav,yes,line,no,,,,,fader,0.66,-7.75,-1.09,4.19,14.38;11.33;3.85,0.77,98-6820,main@3.32;1.70;2.28|main@3.32;9.63;2.31,,,16000,20,overshoot 0.66 dB
+09.wav,beat8/09.wav,yes,line,no,,,,,fader,0.66,-7.75,-1.09,4.19,14.38;11.33;3.85,0.77,98-6820,main@3.32;1.70;2.28|main@3.32;9.63;2.31,,,16000,20,overshoot 0.66 dB
+10.wav,beat8/10.wav,yes,line,no,,,,,fader,0.66,-7.75,-1.09,4.19,14.38;11.33;3.85,0.77,98-6820,main@3.32;1.70;2.28|main@3.32;9.63;2.31,,,16000,20,overshoot 0.66 dB
+11.wav,beat8/11.wav,yes,line,no,,,,,fader,0.66,-7.75,-1.09,4.19,14.38;11.33;3.85,0.77,98-6820,main@3.32;1.70;2.28|main@3.32;9.63;2.31,,,16000,20,overshoot 0.66 dB
+12.wav,beat8/12.wav,yes,line,no,,,,,fader,0.66,-7.75,-1.09,4.19,14.38;11.33;3.85,0.77,98-6820,main@3.32;1.70;2.28|main@3.32;9.63;2.31,,,16000,20,overshoot 0.66 dB
+13.wav,beat8/13.wav,yes,line,no,,,,,fader,0.66,-7.75,-1.09,4.19,14.38;11.33;3.85,0.77,98-6820,main@3.32;1.70;2.28|main@3.32;9.63;2.31,,,16000,20,overshoot 0.66 dB
+14.wav,beat8/14.wav,yes,line,no,,,,,fader,0.66,-7.75,-1.09,4.19,14.38;11.33;3.85,0.77,98-6820,main@3.32;1.70;2.28|main@3.32;9.63;2.31,,,16000,20,overshoot 0.66 dB
+15.wav,beat8/15.wav,yes,line,no,,,,,fader,0.66,-7.75,-1.09,4.19,14.38;11.33;3.85,0.77,98-6820,main@3.32;1.70;2.28|main@3.32;9.63;2.31,,,16000,20,overshoot 0.66 dB
+16.wav,beat8/16.wav,yes,line,no,,,,,fader,0.66,-7.75,-1.09,4.19,14.38;11.33;3.85,0.77,98-6820,main@3.32;1.70;2.28|main@3.32;9.63;2.31,,,16000,20,overshoot 0.66 dB

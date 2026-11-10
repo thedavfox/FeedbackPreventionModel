@@ -1,0 +1,25 @@
+clip,beat,scenario,n_mic,msg_freq_hz,onset_s,howl_rise_db,max_rise_hz,pa_clip_frac,status,notes
+beat1_s1,beat1,walk,1,1052.7,14.00,76.0,1050.8,0.298,ok,overshoot 0.81 dB; walk MSG 5.5->-1.3 dB; howl at onset 1052.7 Hz
+beat1_s2,beat1,fader,1,4313.2,8.91,70.2,4312.5,0.064,ok,overshoot 0.60 dB
+beat1_s3,beat1,walk,1,3383.4,12.20,82.4,3382.8,0.370,ok,overshoot 1.49 dB; walk MSG -2.1->-6.8 dB; howl at onset 1905.5 Hz
+beat2_s1,beat2,fader,1,2207.4,8.94,59.3,2207.0,0.082,ok,overshoot 0.40 dB; walk left only 1.7 dB of headroom at the start (need 3); fell back to fader
+beat2_s2,beat2,fader,2,240.4,8.92,25.7,238.3,0.300,ok,overshoot 0.55 dB; walk left only 1.7 dB of headroom at the start (need 3); fell back to fader; room redrawn 2x (near-tied howl frequencies)
+beat2_s3,beat2,fader,1,4696.8,8.89,67.7,4699.2,0.189,ok,overshoot 0.77 dB
+beat3_s1,beat3,fader,2,4948.4,8.95,68.0,4949.2,0.047,ok,overshoot 0.34 dB
+beat3_s2,beat3,walk,1,2261.0,12.40,72.1,2261.7,0.302,ok,overshoot 0.68 dB; walk MSG 5.2->-1.1 dB; howl at onset 1210.4 Hz; room redrawn 1x (near-tied howl frequencies)
+beat3_s3,beat3,walk,2,5293.7,13.80,84.1,5293.0,0.125,ok,overshoot 0.51 dB; walk MSG 1.0->-3.4 dB; howl at onset 5293.8 Hz
+beat4_s1,beat4,fader,1,4262.1,8.95,45.6,4261.7,0.000,ok,overshoot 0.35 dB; room redrawn 1x (near-tied howl frequencies)
+beat4_s2,beat4,fader,1,5688.3,8.87,70.5,5687.5,0.349,ok,overshoot 0.88 dB
+beat4_s3,beat4,fader,2,4674.9,8.95,70.6,4675.8,0.222,ok,overshoot 0.34 dB; walk left only 2.7 dB of headroom at the start (need 3); fell back to fader
+beat5_s1,beat5,fader,1,2046.9,8.87,61.9,2046.9,0.422,ok,overshoot 0.91 dB; room redrawn 1x (near-tied howl frequencies)
+beat5_s2,beat5,fader,1,334.1,8.94,51.0,335.9,0.264,ok,overshoot 0.35 dB
+beat5_s3,beat5,fader,2,751.6,8.89,47.4,750.0,0.360,ok,overshoot 0.77 dB
+beat6_s1,beat6,fader,2,4020.6,8.94,66.1,4019.5,0.087,ok,overshoot 0.41 dB
+beat6_s2,beat6,walk,1,2956.1,14.00,74.7,2957.0,0.289,ok,overshoot 0.56 dB; walk MSG 7.1->-1.3 dB; howl at onset 2956.1 Hz
+beat6_s3,beat6,fader,2,5037.1,8.88,71.7,5039.1,0.101,ok,overshoot 0.83 dB; room redrawn 1x (near-tied howl frequencies)
+beat7_s1,beat7,fader,2,108.6,8.85,41.8,109.4,0.181,ok,overshoot 1.06 dB
+beat7_s2,beat7,fader,1,2748.2,8.94,75.2,2746.1,0.095,ok,overshoot 0.35 dB; walk left only 2.3 dB of headroom at the start (need 3); fell back to fader; room redrawn 2x (near-tied howl frequencies)
+beat7_s3,beat7,fader,1,4003.5,8.86,59.5,4003.9,0.393,ok,overshoot 0.97 dB; walk left only 1.5 dB of headroom at the start (need 3); fell back to fader; room redrawn 1x (near-tied howl frequencies)
+beat8_s1,beat8,walk,2,3504.1,9.80,83.6,3503.9,0.158,ok,overshoot 0.39 dB; walk MSG 4.0->-2.2 dB; howl at onset 3096.9 Hz; room redrawn 2x (near-tied howl frequencies)
+beat8_s2,beat8,fader,1,357.6,8.90,42.1,355.5,0.000,ok,overshoot 0.66 dB
+beat8_s3,beat8,fader,2,2458.8,8.97,68.8,2457.0,0.160,ok,overshoot 0.17 dB; room redrawn 5x (near-tied howl frequencies)

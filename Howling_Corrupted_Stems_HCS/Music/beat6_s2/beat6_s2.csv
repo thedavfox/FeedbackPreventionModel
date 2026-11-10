@@ -1,0 +1,5 @@
+Stem file,Original track,Playing in window,Role,Impacted,Mic channel,Relative mic gain dB,MSG frequency,Instability onset,Scenario,Overshoot dB,Start gain,End gain,Mixer latency ms,Room dims,RT60,Speaker band Hz,Speakers,Mic start,Mic end,Sampling frequency,Audio length,Notes
+16.wav,beat6/16.wav,yes,line,no,,,,,walk,0.56,-0.69,-0.69,8.94,11.70;13.71;4.35,0.33,86-6350,main@4.27;2.06;2.01|main@4.27;11.65;2.20,,,16000,20,overshoot 0.56 dB; walk MSG 7.1->-1.3 dB; howl at onset 2956.1 Hz
+17.wav,beat6/17.wav,yes,line,no,,,,,walk,0.56,-0.69,-0.69,8.94,11.70;13.71;4.35,0.33,86-6350,main@4.27;2.06;2.01|main@4.27;11.65;2.20,,,16000,20,overshoot 0.56 dB; walk MSG 7.1->-1.3 dB; howl at onset 2956.1 Hz
+28.wav,beat6/28.wav,yes,line,no,,,,,walk,0.56,-0.69,-0.69,8.94,11.70;13.71;4.35,0.33,86-6350,main@4.27;2.06;2.01|main@4.27;11.65;2.20,,,16000,20,overshoot 0.56 dB; walk MSG 7.1->-1.3 dB; howl at onset 2956.1 Hz
+50.wav,beat6/50.wav,yes,mic,yes,1,0.00,2.956129e+03,14.00,walk,0.56,-0.69,-0.69,8.94,11.70;13.71;4.35,0.33,86-6350,main@4.27;2.06;2.01|main@4.27;11.65;2.20,2.60;6.86;1.57,5.36;2.09;1.57,16000,20,overshoot 0.56 dB; walk MSG 7.1->-1.3 dB; howl at onset 2956.1 Hz

@@ -1,0 +1,6 @@
+Stem file,Original track,Playing in window,Role,Impacted,Mic channel,Relative mic gain dB,MSG frequency,Instability onset,Scenario,Overshoot dB,Start gain,End gain,Mixer latency ms,Room dims,RT60,Speaker band Hz,Speakers,Mic start,Mic end,Sampling frequency,Audio length,Notes
+08.wav,beat5/08.wav,yes,line,no,,,,,fader,0.91,-5.42,1.49,3.56,11.29;9.87;4.54,0.68,67-7036,main@3.31;1.48;2.03|main@3.31;8.39;2.11,,,16000,20,overshoot 0.91 dB; room redrawn 1x (near-tied howl frequencies)
+17.wav,beat5/17.wav,yes,line,no,,,,,fader,0.91,-5.42,1.49,3.56,11.29;9.87;4.54,0.68,67-7036,main@3.31;1.48;2.03|main@3.31;8.39;2.11,,,16000,20,overshoot 0.91 dB; room redrawn 1x (near-tied howl frequencies)
+19.wav,beat5/19.wav,yes,line,no,,,,,fader,0.91,-5.42,1.49,3.56,11.29;9.87;4.54,0.68,67-7036,main@3.31;1.48;2.03|main@3.31;8.39;2.11,,,16000,20,overshoot 0.91 dB; room redrawn 1x (near-tied howl frequencies)
+21.wav,beat5/21.wav,yes,mic,yes,1,0.00,2.046921e+03,8.87,fader,0.91,-5.42,1.49,3.56,11.29;9.87;4.54,0.68,67-7036,main@3.31;1.48;2.03|main@3.31;8.39;2.11,1.50;4.94;1.64,1.50;4.94;1.64,16000,20,overshoot 0.91 dB; room redrawn 1x (near-tied howl frequencies)
+24.wav,beat5/24.wav,yes,line,no,,,,,fader,0.91,-5.42,1.49,3.56,11.29;9.87;4.54,0.68,67-7036,main@3.31;1.48;2.03|main@3.31;8.39;2.11,,,16000,20,overshoot 0.91 dB; room redrawn 1x (near-tied howl frequencies)

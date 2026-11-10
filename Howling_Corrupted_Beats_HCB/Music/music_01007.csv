@@ -1,0 +1,2 @@
+Audio filename, AIR filename, Start gain, End gain, Sampling frequency, Start transition time, Length transition time, Audio length, MSG frequency
+music_in_01.wav, AIR_007.wav, 4.0, 10.5, 16000, 8, 1, 20, 3.719447e+03

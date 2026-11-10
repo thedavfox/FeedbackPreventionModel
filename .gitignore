@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Raw Logic exports (unreleased; kept local only)
+stems_raw/
+
+# KU Leuven HCMS download: no licence stated, do not republish
+Howling_Corrupted_Music_Speech_HCMS/
+Howling_Corrupted_Music_Speech_HCMS.zip
